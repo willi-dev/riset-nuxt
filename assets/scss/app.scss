@@ -1,0 +1,21 @@
+// app.scss
+
+// import variables
+@import "variables";
+
+
+h1{
+	color: $black;
+}
+
+.text-black {
+	color: $black;
+}
+
+.text-white{
+	color: $white;
+}
+
+.text-grey{
+	color: $grey;
+}
